@@ -1,0 +1,7 @@
+*.log
+tmp/*
+*.css
+.eprj
+*.sqlite3
+.*.swp
+*~
